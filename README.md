@@ -1,19 +1,15 @@
-<!-- ===================== HERO SECTION ===================== -->
-
 <div align="center">
 
 # 👋 Hey, I'm Ankesh Kumar
 
-### Full-Stack Developer · AI/ML Enthusiast · DSA Problem Solver
+### Full-Stack Developer | AI/ML Enthusiast | DSA Problem Solver
 
-*Building practical applications, exploring AI, and solving problems through code.*
+Building web applications, exploring Artificial Intelligence, and solving problems through code.
 
 <p>
-  <a href="https://github.com/Ankesh454">
-    <img src="https://img.shields.io/badge/GitHub-Ankesh454-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-7C3AED?style=for-the-badge" alt="Full Stack Development"/>
-  <img src="https://img.shields.io/badge/Exploring-AI%20%26%20ML-06B6D4?style=for-the-badge" alt="AI and ML"/>
+  <img src="https://img.shields.io/badge/Full--Stack-Developer-7C3AED?style=for-the-badge" alt="Full Stack Developer"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-0891B2?style=for-the-badge" alt="AI and ML"/>
+  <img src="https://img.shields.io/badge/DSA-C%2B%2B-16A34A?style=for-the-badge" alt="DSA in C++"/>
 </p>
 
 </div>
@@ -22,17 +18,17 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student passionate about software development, Artificial Intelligence, and algorithmic problem-solving.
+I'm a Computer Science student interested in full-stack development, AI-powered applications, and problem-solving.
 
-- 🌐 Building web applications with **HTML, CSS, JavaScript, React, Node.js, and Express.js**
-- 🧠 Practicing **Data Structures and Algorithms in C++**
-- 🤖 Developing AI-powered applications using **Python, Machine Learning, and Computer Vision**
-- 🗄️ Working with databases such as **MongoDB, Supabase, and SQLite**
-- 🚀 Learning by building projects that solve real-world problems
+- 🌐 Developing web applications with React, JavaScript, Node.js, and Express.js
+- 🧠 Practicing Data Structures and Algorithms using C++
+- 🤖 Exploring Machine Learning and Computer Vision with Python
+- 🗄️ Working with SQL and NoSQL databases
+- 🚀 Learning by building practical projects and improving my development skills
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 🌐 Frontend Development
 
@@ -43,14 +39,14 @@ I'm a Computer Science student passionate about software development, Artificial
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js"/>
   <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/>
 </p>
 
-### 🗄️ Database and Backend Services
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,supabase" alt="MongoDB SQLite Supabase"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,sqlite" alt="MongoDB Supabase SQLite"/>
 </p>
 
 ### 🤖 AI, Machine Learning & Computer Vision
@@ -58,16 +54,16 @@ I'm a Computer Science student passionate about software development, Artificial
 <p>
   <img src="https://skillicons.dev/icons?i=python,opencv,sklearn" alt="Python OpenCV Scikit-learn"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Dlib-Computer%20Vision-0F766E?style=for-the-badge" alt="Dlib"/>
+  <img src="https://img.shields.io/badge/Dlib-Face%20Recognition-0F766E?style=for-the-badge" alt="Dlib"/>
 </p>
 
-### 💻 Programming and Tools
+**Concepts:** Face Recognition, Face Embeddings, Voice Embeddings, SVM, Logistic Regression, KNN, Data Structures, Algorithms, REST APIs, and Object-Oriented Programming.
+
+### 💻 Programming & Developer Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" alt="C++ Git GitHub VS Code"/>
 </p>
-
-**Additional concepts:** Data Structures, Algorithms, REST APIs, Object-Oriented Programming, Face Recognition, Voice Embeddings, SVM, Logistic Regression, and KNN.
 
 ---
 
@@ -79,19 +75,18 @@ I'm a Computer Science student passionate about software development, Artificial
 
 ### 🤖 AiAttendance
 
-AI-powered attendance management with face recognition and optional voice-based identification.
+An AI-powered attendance management system that uses face recognition and optional voice-based identification.
 
-**Highlights**
 - Student and teacher dashboards
 - Face recognition and verification
-- Subject management and enrollment
-- Supabase database integration
+- Subject creation and enrollment
+- Attendance information management
 
-**Tech Stack**
+**Technologies**
 
 `Python` `Streamlit` `Dlib` `Scikit-learn` `Supabase`
 
-[📂 View Repository](https://github.com/Ankesh454/Ai-Attendance-System)
+[**View Repository →**](https://github.com/Ankesh454/Ai-Attendance-System)
 
 </td>
 <td width="50%" valign="top">
@@ -100,17 +95,16 @@ AI-powered attendance management with face recognition and optional voice-based 
 
 A collection of Data Structures and Algorithms problems solved using C++.
 
-**Focus**
-- Algorithmic thinking
-- Problem-solving practice
-- Data structures and greedy algorithms
-- Writing efficient solutions
+- Algorithmic problem-solving
+- Data Structures and Algorithms practice
+- Greedy algorithms and other coding problems
+- Improving logical thinking
 
-**Tech Stack**
+**Technologies**
 
 `C++` `DSA` `Algorithms`
 
-[📂 View Repository](https://github.com/Ankesh454/DSA-Questions)
+[**View Repository →**](https://github.com/Ankesh454/DSA-Questions)
 
 </td>
 </tr>
@@ -119,100 +113,61 @@ A collection of Data Structures and Algorithms problems solved using C++.
 
 ### 🩸 BloodConnect
 
-A blood donation coordination project designed to help connect blood requesters with potential donors.
+A blood donation coordination project designed to connect people requesting blood with potential donors.
 
-**Focus**
-- User profiles
 - Blood request management
 - Donor matching by blood group
 - Availability-based coordination
+- User profile management
 
-**Tech Stack**
+**Focus**
 
-`Web Development` `Database`
+`Web Development` `Database Management`
 
-[📂 View Repository](https://github.com/Ankesh454/blood_connect)
+[**View Repository →**](https://github.com/Ankesh454/blood_connect)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏡 Airbnb Clone
 
-A web application inspired by Airbnb, exploring property listings and full-stack web development.
+A web development project inspired by Airbnb, exploring full-stack application development.
 
-**Focus**
-- Web application structure
-- Listings and backend functionality
-- Database integration
+- Web application architecture
+- Property listings
+- Backend and database integration
 
-**Tech Stack**
+**Technologies**
 
 `JavaScript` `Node.js` `Express.js` `MongoDB` `EJS`
 
-[📂 View Repository](https://github.com/Ankesh454/Airbnb-clone)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏋️ AI Gym Trainer
-
-An AI-assisted gym coaching project focused on workout tracking and exercise management.
-
-**Focus**
-- Exercise selection
-- Workout planning
-- User session management
-- Exercise data storage
-
-**Tech Stack**
-
-`Python` `Streamlit` `SQLite`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌿 JanSahayak AI
-
-A government scheme navigator concept exploring personalized scheme discovery and AI-powered recommendations.
-
-**Focus**
-- User profile-based recommendations
-- Government scheme discovery
-- AI integration exploration
-
-**Tech Stack**
-
-`Node.js` `Express.js` `EJS` `MongoDB`
+[**View Repository →**](https://github.com/Ankesh454/Airbnb-clone)
 
 </td>
 </tr>
 </table>
 
----
+### 🏋️ AI Gym Trainer
 
-## 📊 GitHub Analytics
+An AI-assisted gym coaching project focused on exercise management, workout planning, and user sessions.
 
-<div align="center">
+**Technologies:** Python, Streamlit, SQLite
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankesh454&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ankesh's GitHub Statistics"/>
+### 🌿 JanSahayak AI
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankesh454&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+A government scheme navigator concept exploring profile-based scheme recommendations and AI integration.
 
-<img width="95%" src="https://streak-stats.demolab.com?user=Ankesh454&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
+**Technologies:** Node.js, Express.js, EJS, MongoDB
 
 ---
 
-## 🎯 Current Goals
+## 🎯 What I'm Working Towards
 
-- ⚛️ Strengthen React and full-stack development
-- 🧩 Improve DSA and competitive problem-solving fundamentals
-- 🤖 Build practical AI and Computer Vision projects
-- 🏗️ Write clean, maintainable, and reusable code
-- 🌱 Keep learning through hands-on development
+- Building better full-stack applications with React and Node.js
+- Strengthening DSA and algorithmic problem-solving in C++
+- Developing practical AI and Computer Vision applications
+- Writing clean, maintainable, and reusable code
+- Continuously learning new technologies through hands-on projects
 
 ---
 
@@ -221,12 +176,13 @@ A government scheme navigator concept exploring personalized scheme discovery an
 <div align="center">
 
 <a href="https://github.com/Ankesh454">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-Ankesh454-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
 </a>
 
 <br/><br/>
 
-**Thanks for visiting my profile!**  
-*Always learning. Always building. Always improving.* 🚀
+**Thanks for visiting my profile!**
+
+*Always Learning · Always Building · Always Improving* 🚀
 
 </div>
