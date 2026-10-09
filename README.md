@@ -69,27 +69,96 @@ I'm a Computer Science student interested in full-stack development, AI-powered 
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AiAttendance
+<h3>🤖 AiAttendance</h3>
 
-An AI-powered attendance management system that uses face recognition and optional voice-based identification.
+An AI-powered attendance management system using face recognition and optional voice-based identification.
 
-- Student and teacher dashboards
-- Face recognition and verification
-- Subject creation and enrollment
-- Attendance information management
+- 👨‍🎓 Student and teacher dashboards
+- 📸 Face recognition and verification
+- 🏫 Subject creation and enrollment
+- 📊 Attendance management
 
-**Technologies**
+**Tech Stack**
 
 `Python` `Streamlit` `Dlib` `Scikit-learn` `Supabase`
 
-[**View Repository →**](https://github.com/Ankesh454/Ai-Attendance-System)
+<a href="https://github.com/Ankesh454/Ai-Attendance-System">
+  <img src="https://img.shields.io/badge/Explore%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore AiAttendance"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
+
+<h3>🧠 DSA-Questions</h3>
+
+C++ solutions to Data Structures and Algorithms problems, focused on building strong problem-solving skills.
+
+- 💻 C++ coding practice
+- 🧩 Algorithmic problem-solving
+- 🌳 Data Structures and Algorithms
+- 🎯 Logical thinking and optimization
+
+**Tech Stack**
+
+`C++` `DSA` `Algorithms`
+
+<a href="https://github.com/Ankesh454/DSA-Questions">
+  <img src="https://img.shields.io/badge/Explore%20Project-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore DSA Questions"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🩸 BloodConnect</h3>
+
+A blood donation coordination project designed to connect blood requesters with potential donors.
+
+- 🩸 Blood request management
+- 🔎 Donor matching by blood group
+- 🤝 Availability-based coordination
+- 👤 User profile management
+
+**Tech Stack**
+
+`Web Development` `Database`
+
+<a href="https://github.com/Ankesh454/blood_connect">
+  <img src="https://img.shields.io/badge/Explore%20Project-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Explore BloodConnect"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏡 Airbnb Clone</h3>
+
+A web application inspired by Airbnb, built to practice full-stack web development.
+
+- 🏠 Property listings
+- ⚙️ Backend application logic
+- 🗄️ Database integration
+- 🌐 Dynamic web pages
+
+**Tech Stack**
+
+`JavaScript` `Node.js` `Express.js` `MongoDB` `EJS`
+
+<a href="https://github.com/Ankesh454/Airbnb-clone">
+  <img src="https://img.shields.io/badge/Explore%20Project-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Explore Airbnb Clone"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ### 🧠 DSA-Questions
 
