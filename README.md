@@ -134,7 +134,6 @@ A blood donation coordination application designed to connect people requesting 
 
 ---
 
-[**View Repository →**](https://github.com/Ankesh454/DSA-Questions)
 <h3>💻 More About My Coding Journey</h3>
 
 I regularly practice Data Structures and Algorithms to improve problem-solving skills and write efficient code.
