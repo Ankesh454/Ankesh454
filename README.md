@@ -134,17 +134,6 @@ A blood donation coordination application designed to connect people requesting 
 
 ---
 
-### 🧠 DSA-Questions
-
-A collection of Data Structures and Algorithms problems solved using C++, focused on improving logical thinking and problem-solving skills.
-
-- 💻 C++ coding practice
-- 🧩 Algorithmic problem-solving
-- 🌳 Data Structures and Algorithms
-- 🎯 Greedy algorithms and other coding problems
-
-**Technologies:** `C++` `DSA` `Algorithms`
-
 [**View Repository →**](https://github.com/Ankesh454/DSA-Questions)
 <h3>💻 More About My Coding Journey</h3>
 
