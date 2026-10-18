@@ -1,72 +1,3 @@
-<div align="center">
-
-# 👋 Hey, I'm Ankesh Kumar
-
-### Full-Stack Developer | AI/ML Enthusiast | DSA Problem Solver
-
-Building web applications, exploring Artificial Intelligence, and solving problems through code.
-
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack-Developer-7C3AED?style=for-the-badge" alt="Full Stack Developer"/>
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-0891B2?style=for-the-badge" alt="AI and ML"/>
-  <img src="https://img.shields.io/badge/DSA-C%2B%2B-16A34A?style=for-the-badge" alt="DSA in C++"/>
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science student interested in full-stack development, AI-powered applications, and problem-solving.
-
-- 🌐 Developing web applications with React, JavaScript, Node.js, and Express.js
-- 🧠 Practicing Data Structures and Algorithms using C++
-- 🤖 Exploring Machine Learning and Computer Vision with Python
-- 🗄️ Working with SQL and NoSQL databases
-- 🚀 Learning by building practical projects and improving my development skills
-
----
-
-## 🛠️ Technical Skills
-
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML CSS JavaScript React"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express.js"/>
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,sqlite" alt="MongoDB Supabase SQLite"/>
-</p>
-
-### 🤖 AI, Machine Learning & Computer Vision
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,opencv,sklearn" alt="Python OpenCV Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Dlib-Face%20Recognition-0F766E?style=for-the-badge" alt="Dlib"/>
-</p>
-
-**Concepts:** Face Recognition, Face Embeddings, Voice Embeddings, SVM, Logistic Regression, KNN, Data Structures, Algorithms, REST APIs, and Object-Oriented Programming.
-
-### 💻 Programming & Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" alt="C++ Git GitHub VS Code"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -75,12 +6,13 @@ I'm a Computer Science student interested in full-stack development, AI-powered 
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 AiAttendance</h3>
+<h3>🤖 Ai-Attendance-System</h3>
 
-An AI-powered attendance management system using face recognition and optional voice-based identification.
+AI-powered attendance management system using face recognition and optional voice-based identification.
 
-- 👨‍🎓 Student and teacher dashboards
+**Features**
 - 📸 Face recognition and verification
+- 👨‍🎓 Student and teacher dashboards
 - 🏫 Subject creation and enrollment
 - 📊 Attendance management
 
@@ -89,27 +21,27 @@ An AI-powered attendance management system using face recognition and optional v
 `Python` `Streamlit` `Dlib` `Scikit-learn` `Supabase`
 
 <a href="https://github.com/Ankesh454/Ai-Attendance-System">
-  <img src="https://img.shields.io/badge/Explore%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore AiAttendance"/>
+<img src="https://img.shields.io/badge/View%20Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Ai Attendance System"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🧠 DSA-Questions</h3>
+<h3>🎨 AI-Attendance-Landing-page</h3>
 
-C++ solutions to Data Structures and Algorithms problems, focused on building strong problem-solving skills.
+A landing page for the AI attendance project, designed to present the application and its features.
 
-- 💻 C++ coding practice
-- 🧩 Algorithmic problem-solving
-- 🌳 Data Structures and Algorithms
-- 🎯 Logical thinking and optimization
+**Highlights**
+- 🌐 Project landing page
+- 🎨 CSS-based interface
+- 📱 Web design and layout
 
 **Tech Stack**
 
-`C++` `DSA` `Algorithms`
+`HTML` `CSS`
 
-<a href="https://github.com/Ankesh454/DSA-Questions">
-  <img src="https://img.shields.io/badge/Explore%20Project-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore DSA Questions"/>
+<a href="https://github.com/Ankesh454/AI-Attendance-Landing-page">
+<img src="https://img.shields.io/badge/View%20Project-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View AI Attendance Landing Page"/>
 </a>
 
 </td>
@@ -117,30 +49,11 @@ C++ solutions to Data Structures and Algorithms problems, focused on building st
 <tr>
 <td width="50%" valign="top">
 
-<h3>🩸 BloodConnect</h3>
+<h3>🏡 Airbnb-clone</h3>
 
-A blood donation coordination project designed to connect blood requesters with potential donors.
+A full-stack web application inspired by Airbnb, built to practice web development and database integration.
 
-- 🩸 Blood request management
-- 🔎 Donor matching by blood group
-- 🤝 Availability-based coordination
-- 👤 User profile management
-
-**Tech Stack**
-
-`Web Development` `Database`
-
-<a href="https://github.com/Ankesh454/blood_connect">
-  <img src="https://img.shields.io/badge/Explore%20Project-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Explore BloodConnect"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🏡 Airbnb Clone</h3>
-
-A web application inspired by Airbnb, built to practice full-stack web development.
-
+**Features**
 - 🏠 Property listings
 - ⚙️ Backend application logic
 - 🗄️ Database integration
@@ -151,107 +64,72 @@ A web application inspired by Airbnb, built to practice full-stack web developme
 `JavaScript` `Node.js` `Express.js` `MongoDB` `EJS`
 
 <a href="https://github.com/Ankesh454/Airbnb-clone">
-  <img src="https://img.shields.io/badge/Explore%20Project-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Explore Airbnb Clone"/>
+<img src="https://img.shields.io/badge/View%20Project-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="View Airbnb Clone"/>
 </a>
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-</div>
+<h3>🏋️ Ai-real-time-gym-coaching</h3>
 
-### 🧠 DSA-Questions
+An AI-assisted gym coaching application focused on exercise tracking and real-time workout guidance.
 
-A collection of Data Structures and Algorithms problems solved using C++.
+**Features**
+- 💪 Exercise form monitoring
+- 🔢 Workout repetition tracking
+- 🎯 Exercise-specific feedback
+- 🏃 Real-time coaching
 
-- Algorithmic problem-solving
-- Data Structures and Algorithms practice
-- Greedy algorithms and other coding problems
-- Improving logical thinking
+**Tech Stack**
 
-**Technologies**
+`Python` `Streamlit` `MediaPipe`
 
-`C++` `DSA` `Algorithms`
-
-[**View Repository →**](https://github.com/Ankesh454/DSA-Questions)
+<a href="https://github.com/Ankesh454/Ai-real-time-gym-coaching">
+<img src="https://img.shields.io/badge/View%20Project-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="View AI Gym Trainer"/>
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🩸 BloodConnect
+<h3>🩸 Blood Connect</h3>
 
-A blood donation coordination project designed to connect people requesting blood with potential donors.
+A blood donation coordination application designed to connect people requesting blood with potential donors.
 
-- Blood request management
-- Donor matching by blood group
-- Availability-based coordination
-- User profile management
+**Features**
+- 🩸 Blood request management
+- 🔎 Donor matching by blood group
+- 🤝 Availability-based coordination
+- 👤 User profile management
 
-**Focus**
+**Tech Stack**
 
-`Web Development` `Database Management`
+`React` `Node.js` `Express.js` `MongoDB`
 
-[**View Repository →**](https://github.com/Ankesh454/blood_connect)
+<a href="https://github.com/Ankesh454/blood_connect">
+<img src="https://img.shields.io/badge/View%20Project-B91C1C?style=for-the-badge&logo=github&logoColor=white" alt="View Blood Connect"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏡 Airbnb Clone
+<h3>💻 More About My Coding Journey</h3>
 
-A web development project inspired by Airbnb, exploring full-stack application development.
-
-- Web application architecture
-- Property listings
-- Backend and database integration
-
-**Technologies**
-
-`JavaScript` `Node.js` `Express.js` `MongoDB` `EJS`
-
-[**View Repository →**](https://github.com/Ankesh454/Airbnb-clone)
+I regularly practice Data Structures and Algorithms to improve problem-solving skills and write efficient code.
 
 </td>
 </tr>
 </table>
 
-### 🏋️ AI Gym Trainer
-
-An AI-assisted gym coaching project focused on exercise management, workout planning, and user sessions.
-
-**Technologies:** Python, Streamlit, SQLite
-
-### 🌿 JanSahayak AI
-
-A government scheme navigator concept exploring profile-based scheme recommendations and AI integration.
-
-**Technologies:** Node.js, Express.js, EJS, MongoDB
-
----
-
-## 🎯 What I'm Working Towards
-
-- Building better full-stack applications with React and Node.js
-- Strengthening DSA and algorithmic problem-solving in C++
-- Developing practical AI and Computer Vision applications
-- Writing clean, maintainable, and reusable code
-- Continuously learning new technologies through hands-on projects
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Ankesh454">
-  <img src="https://img.shields.io/badge/GitHub-Ankesh454-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-</a>
-
-<br/><br/>
-
-**Thanks for visiting my profile!**
-
-*Always Learning · Always Building · Always Improving* 🚀
-
 </div>
+
+---
+
+### 🧠 DSA-Questions
+
+A collection of C++ solutions to Data Structures and Algorithms problems, focused on logical thinking and efficient problem-solving.
+
+**Topics:** Greedy Algorithms, Data Structures, Algorithms, and Coding Problems.
+
+[**View Repository →**](https://github.com/Ankesh454/DSA-Questions)
