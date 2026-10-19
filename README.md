@@ -103,7 +103,7 @@ A web application inspired by Airbnb, built to explore full-stack development an
 - 🗄️ Database integration
 - 🌐 Dynamic web pages
 
-**Tech Stack:** `JavaScript` `Node.js` `Express.js` `MongoDB` `EJS`
+**Tech Stack:** `JavaScript` `Node.js` `Express.js` `MongoDB` `React`
 
 [**View Project on GitHub →**](https://github.com/Ankesh454/Airbnb-clone)
 
